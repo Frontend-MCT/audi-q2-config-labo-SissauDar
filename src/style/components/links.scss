@@ -1,0 +1,24 @@
+.c-links {
+  border-bottom-width: 0;
+  padding-bottom: 7px;
+  border-bottom: 1px #e8e8e8 solid;
+  margin-left: 24px;
+  padding-left: 0;
+  display: inline-block;
+  padding-right: 0;
+}
+
+.c-links__link {
+  text-decoration: none;
+  padding: 0.5rem 0;
+}
+
+.c-links__link--active {
+  color: var(--main-color) !important;
+  border-bottom: var(--main-color) 3px solid;
+  font-weight: 700;
+}
+
+.c-links__link:not(:first-child) {
+  margin-left: 1rem;
+}

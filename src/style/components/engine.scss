@@ -1,0 +1,23 @@
+.c-engines {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  max-height: 370px;
+  margin-top: 2rem;
+}
+
+.c-engine {}
+
+.c-engine__top {
+  padding: 1rem;
+  background-color: map-get($colorNeutral, light);
+  font-weight: 600;
+}
+
+.c-engine__title {}
+
+.c-engine__price {}
+
+.c-engine__bottom {
+  background-color: map-get($colorNeutral, dark);
+  padding: 1rem 0;
+}

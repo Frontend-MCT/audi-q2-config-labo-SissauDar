@@ -1,0 +1,29 @@
+{
+  "name": "audi-q2-config-labo-SissauDar",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Frontend-MCT/audi-q2-config-labo-SissauDar.git",
+  "author": "DarSissau <dar.sissau@student.howest.be>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "gulp serve"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.4",
+    "autoprefixer": "^9.4.10",
+    "babel-loader": "^8.0.5",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.11.0",
+    "sass": "^1.17.2"
+  }
+}

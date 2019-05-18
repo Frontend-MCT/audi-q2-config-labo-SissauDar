@@ -1,0 +1,56 @@
+{
+	"engines": [
+		{
+			"name": "Sport 30 TDI S tronic",
+			"price": "€30.620,00",
+			"acceleration": "10,5 s",
+			"emission": "126 - 118 g/km",
+			"milage": "4,8 - 4,5 l/100 km",
+			"displacement": "1598 cm3",
+			"power": "85 kW (116 PK)",
+			"speed": "197 km/h"
+		},
+		{
+			"name": "Sport 35 TFSI S tronic",
+			"price": "€ 30.650,00",
+			"acceleration": "8,5 s",
+			"emission": "129 - 121 g/km",
+			"milage": "5,7 - 5,3 l/100 km",
+			"displacement": "1498 cm3",
+			"power": "110 kW (150 PK)",
+			"speed": "212 km/h"
+		},
+		{
+			"name": "Sport 35 TDI S tronic",
+			"price": "€ 32.775,00",
+			"acceleration": "8,5 s",
+			"emission": "123 - 116 g/km",
+			"milage": "4,7 - 4,4 l/100 km",
+			"displacement": "1968 cm3",
+			"power": "110 kW (150 PK)",
+			"speed": "211 km/h"
+		},
+		{	
+			"name": "Sport 35 TDI quattro S tronic",
+			"price": "€ 34.675,00",
+			"acceleration": "8,1 s",
+			"emission": "140 - 134 g/km",
+			"milage": "5,3 - 5,1 l/100 km",
+			"displacement": "1968 cm3",
+			"power": "110 kW (150 PK)",
+			"speed": "211 km/h"
+		},
+		{			
+			"name": "Sport 40 TFSI quattro S tronic",
+			"price": "€ 34.990,00",
+			"acceleration": "6,5 s",
+			"emission": "153 - 147 g/km",
+			"milage": "6,7 - 6,5 l/100 km",
+			"displacement": "1984 cm3",
+			"power": "140 kW (190 PK)",
+			"speed": "228 km/h"
+		}	
+	]
+}
+
+

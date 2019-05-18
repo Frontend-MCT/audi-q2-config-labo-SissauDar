@@ -1,0 +1,114 @@
+/*
+      Elements: typography
+      ---
+      Default markup for typographic elements
+  */
+h1,
+h2,
+h3 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 48px;
+  margin: 0 0 24px;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 40px;
+  margin: 0 0 24px;
+}
+
+h3 {
+  font-size: 26px;
+  line-height: 32px;
+  margin: 0 0 24px;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin: 0 0 24px;
+}
+
+address,
+dl,
+figure,
+ol,
+p,
+table,
+ul {
+  margin: 0 0 24px;
+}
+
+ol,
+ul {
+  padding-left: 24px;
+}
+
+li ol,
+li ul {
+  margin-bottom: 0;
+}
+
+blockquote {
+  font-style: normal;
+  font-size: 23px;
+  line-height: 32px;
+  margin: 0 0 24px;
+}
+
+blockquote * {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+figcaption {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: 8px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: LightGrey;
+  margin: 0 0 24px;
+}
+
+a {
+  transition: all $transition-alpha;
+  color: #C8C8C8;
+  outline-color: #C8C8C8;
+  outline-width: medium;
+  outline-offset: 2px;
+}
+
+a:active,
+a:visited {
+  color: #C8C8C8;
+}
+
+a:focus,
+a:hover {
+  color: #C8C8C8;
+}
+
+input,
+label {
+  display: block;
+}
+
+select {
+  width: 100%;
+}
+
+input::placeholder {
+  color: white;
+}

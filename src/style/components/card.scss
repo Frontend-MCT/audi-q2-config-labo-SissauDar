@@ -1,0 +1,25 @@
+.c-card {
+  background-color: white;
+  // align-items: center;
+  // justify-content: space-around;
+  border-radius: 0.5rem;
+  margin: 0 1.5rem;
+}
+
+.c-card__info {}
+
+.c-card__title {
+  color: map-get($colors-alpha, green);
+  line-height: 1.5;
+}
+
+.c-card__subTitle {
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.c-card__map {
+  border-radius: 1rem;
+  width: 70px;
+  margin-left: 1rem;
+}

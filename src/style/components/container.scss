@@ -1,0 +1,11 @@
+.c-container {
+  display: flex;
+  width: 300%;
+  transition-property: transform;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+}
+
+.c-container__item {
+  width: 100%;
+}

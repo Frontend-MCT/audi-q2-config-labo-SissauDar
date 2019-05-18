@@ -1,0 +1,12 @@
+.c-button {
+  text-align: center;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 16px;
+  padding: 11px 32px;
+  box-shadow: $inset-shadow;
+  border-radius: $border-radius;
+  color: map-get($colorNeutral, light);
+  background-color: var(--main-color);
+}
